@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Notes>
+    <Note id="1">
+         <AAA>aaa1</AAA>
+         <BBB>bbb1</BBB>
+         <CCC>ccc1</CCC>
+    </Note>
+    <Note id="2">
+        <AAA>aaa2</AAA>
+        <BBB>bbb2</BBB>
+        <CCC>ccc2</CCC>
+    </Note>
+    <Note id="3">
+        <AAA>aaa3</AAA>
+        <BBB>bbb3</BBB>
+        <CCC>ccc3</CCC>
+    </Note>
+    <Note id="4">
+        <AAA>aaa4</AAA>
+        <BBB>bbb4</BBB>
+        <CCC>ccc4</CCC>
+    </Note>
+</Notes>
